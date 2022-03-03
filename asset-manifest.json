@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dnd-two-horizontal-rows/static/css/main.073c9b0a.css",
+    "main.js": "/react-dnd-two-horizontal-rows/static/js/main.d5611eeb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-dnd-two-horizontal-rows/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/react-dnd-two-horizontal-rows/index.html",
+    "main.073c9b0a.css.map": "/react-dnd-two-horizontal-rows/static/css/main.073c9b0a.css.map",
+    "main.d5611eeb.js.map": "/react-dnd-two-horizontal-rows/static/js/main.d5611eeb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-dnd-two-horizontal-rows/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d5611eeb.js"
+  ]
+}
